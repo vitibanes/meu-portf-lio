@@ -366,11 +366,11 @@ form textarea {
     max-height: 400px;
 }
 
-form .btn-enviar {
+form .btn-contato {
     margin-top: 20px;
     text-align: center;
 }
-
+/*
 .btn-enviar input{
     width: 120px;
     background-color: #ff3131;
@@ -379,7 +379,7 @@ form .btn-enviar {
     cursor: pointer;
     transition: 0.2s;
 }
-
+*/
 /* ESTILO DO RODAPE */
 footer {
     padding: 0px 4%;
