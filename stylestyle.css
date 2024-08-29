@@ -371,7 +371,7 @@ form .btn-enviar {
     text-align: center;
 }
 
-form .btn-enviar button{
+form .btn-enviar .btn-formulario{
     width: 120px;
     background-color: #ff3131;
     color: black;
