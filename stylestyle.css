@@ -366,11 +366,9 @@ form textarea {
     max-height: 400px;
 }
 
-form .btn-contato button{
-    margin-top: 20px;
-    text-align: center;
+.btn-formulario{
+    margin-left: 100px;
 }
-
 /* ESTILO DO RODAPE */
 footer {
     padding: 0px 4%;
