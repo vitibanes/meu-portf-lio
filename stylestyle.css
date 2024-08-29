@@ -34,7 +34,6 @@ body {
     border-radius: 30px;
     cursor: pointer;
     transition: .2s;
-    text-align: center;
 }
 
 h2.titulo {
@@ -367,7 +366,7 @@ form textarea {
     max-height: 400px;
 }
 
-.btn-formulario{
+form button{
     margin-top: 20px;
     text-align: center;
 }
