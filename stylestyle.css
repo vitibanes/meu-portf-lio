@@ -367,8 +367,10 @@ form textarea {
 }
 
 form .btn-contato{
-    padding-left: 100px;
+    margin-top: 20px;
+    text-align: center;
 }
+
 /* ESTILO DO RODAPE */
 footer {
     padding: 0px 4%;
