@@ -371,7 +371,7 @@ form .btn-enviar {
     text-align: center;
 }
 
-form .btn-enviar input button{
+form .btn-enviar button{
     width: 120px;
     background-color: #ff3131;
     color: black;
